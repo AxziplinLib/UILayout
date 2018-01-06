@@ -77,6 +77,7 @@
 		DC18D72D2001276D00939092 = {
 			isa = PBXGroup;
 			children = (
+				DC18D7672001277B00939092 /* Sources */,
 				DC18D7382001276D00939092 /* UILayout */,
 				DC18D74D2001276D00939092 /* UILayoutTests */,
 				DC18D7582001276D00939092 /* UILayoutUITests */,
@@ -123,6 +124,13 @@
 				DC18D75B2001276D00939092 /* Info.plist */,
 			);
 			path = UILayoutUITests;
+			sourceTree = "<group>";
+		};
+		DC18D7672001277B00939092 /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Sources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
